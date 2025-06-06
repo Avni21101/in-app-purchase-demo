@@ -1,16 +1,39 @@
-# filter_demo
+## 📱 In-App Purchase Guide
 
-A new Flutter project.
+![demo](demo.png)
 
-## Getting Started
+Your ultimate resource for implementing and managing In-App Purchases (IAP) on both Google Play and the App Store.
 
-This project is a starting point for a Flutter application.
+### 🚀 Start Learning Now → in-app-purchase-doc.vercel.app
 
-A few resources to get you started if this is your first Flutter project:
+📖 About This Guide
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This guide is crafted for:
+- Developers implementing in-app purchases.
+- Clients & Product Teams managing app monetization.
+- Flutter teams shipping across platforms efficiently.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Whether you're setting up your first subscription or testing IAP flows, this resource covers it all—from setup to best practices.
+
+---
+
+## 🧭 What’s Inside
+
+**📌 General Purpose**
+- Overview of in-app purchases
+- Client-developer sync for monetization goals
+
+**💸 Built for Seamless Monetization**
+- Best practices
+- Common mistakes to avoid
+- Revenue optimization strategies
+
+**🔄 End-to-End Store Integration**
+- Google Play & App Store setup
+- Product/subscription configuration
+- Internal testing and review process
+
+---
+
+# 👥 Contributing
+Pull requests are welcome! If you find issues or want to add missing sections, feel free to open an issue or submit a PR.
